@@ -4,7 +4,6 @@
 
 * [Gobierno de El Salvador](https://covid19.gob.sv/) - Portal oficial del Gobierno de El Salvador sobre COVID-19.
 * [Organización Mundial de la Salud](https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019) - Portal oficial de la OMS acerca del actual brote de enfermedad por coronavirus (COVID-19).
-* [Apoyo económico Gobierno de El Salvador](https://covid19-elsalvador.com/) - Consulta quién de tu familia es el beneficiario del apoyo económico para alimentación en la emergencia.
 
 ## Iniciativas Ciudadanas / Empresas
 
