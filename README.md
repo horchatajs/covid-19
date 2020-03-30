@@ -18,4 +18,4 @@
 
 ### Correciones o sugerencias
 
-Si tenés alguna sugerencia de contenido, corrección o idea sobre como mejorar este documento podes crear un issue con tu comentario [aquí](https://github.com/horchatajs/recursos/issues/new) o crear un pull request con tus recomendaciones.
+Si tienes alguna sugerencia de contenido, corrección o idea sobre como mejorar este documento puedes crear un issue con tu comentario [aquí](https://github.com/horchatajs/covid-19/issues/new) o crear un pull request con tus recomendaciones.
