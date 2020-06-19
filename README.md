@@ -7,7 +7,7 @@
 
 ## Iniciativas Ciudadanas / Empresas
 
-* [Cuarentena Express](https://cuarentena.express/) - Guía de servicios a domicilio en El Salvador
+* [Cuarentena Express](https://cuarentena.express/) - Guía de servicios a domicilio en El Salvador.
 * [COVID-19 El Salvador Dashboard](https://www.elsalvadorcovid19.com/) - Tablero sobre el avanze de COVID-19 en El Salvador.
 * [App Quedate en casa](https://slashmobility.com/quedateencasa/) - La app para contribuir a la contención de la pandemia de coronavirus.
 * [COVID-19 Tracker](https://covid19tracker.hardmodeinteractive.com/) - La app que te permite saber en donde se encontraban los pacientes infectados en un período de tiempo, y así poder ayudar a las personas que infectó mas rápidamente.
